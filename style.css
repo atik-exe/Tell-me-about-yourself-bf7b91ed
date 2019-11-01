@@ -1,0 +1,31 @@
+body {
+	background-color: grey
+
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+	color: green;
+	font-size: 2em;
+}
+ul {font-size: xx-large;}
+ol {font-size: xx-large;
+color: red}
+input {border-radius: 30%}
+
+
+.poeder {
+	border: none;
+	border-radius: 50px;
+}
+
+.hoi {
+	border: none;
+	border-radius: 50px;
+}
+.province {
+	border:none;
+}
